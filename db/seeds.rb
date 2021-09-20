@@ -6,7 +6,53 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Sign.create([{
-  name: 'Gemini',
-  message: 'Test message'
-}])
+Sign.create([
+  {
+  name: 'Aquarius',
+  message: 'Aquarius message'
+  },
+  {
+    name: 'Pisces',
+    message: 'Pisces message'
+  },
+  {
+    name: 'Aries',
+    message: 'Aries message'
+  },
+  {
+    name: 'Taurus',
+    message: 'Taurus message'
+  },
+  {
+    name: 'Gemini',
+    message: 'Gemini message'
+  },
+  {
+    name: 'Cancer',
+    message: 'Cancer message'
+  },
+  {
+    name: 'Leo',
+    message: 'Leo message'
+  },
+  {
+    name: 'Virgo',
+    message: 'Virgo message'
+  },
+  {
+    name: 'Libra',
+    message: 'Libra message'
+  },
+  {
+    name: 'Scorpio',
+    message: 'Scorpio message'
+  },
+  {
+    name: 'Sagittarius',
+    message: 'Sagittarius message'
+  },
+  {
+    name: 'Capricorn',
+    message: 'Capricorn message'
+  },
+])
